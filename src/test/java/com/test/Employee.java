@@ -1,6 +1,6 @@
 package com.test;
 
-public class Greens {
+public class Employee {
 	private void greens1() {
 		System.out.println("Chennai Branch");
 	}
