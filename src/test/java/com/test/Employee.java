@@ -14,4 +14,17 @@ public class Employee {
 
 	}
 
+	private void greens10() {
+		System.out.println("Thuraipakam Branch");
+
+	}
+	private void greens11() {
+		System.out.println("Medavakkam Branch");
+		
+	}
+	private void greens12() {
+		System.out.println("Metukupam Branch");
+		
+	}
+
 }
