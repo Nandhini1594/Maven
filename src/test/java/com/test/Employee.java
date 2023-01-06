@@ -13,6 +13,21 @@ public class Employee {
 		System.out.println("Salem Branch");
 
 	}
+<<<<<<< HEAD
+	private void greens4() {
+		System.out.println("Erode Branch");
+		
+	}
+	private void greens5() {
+		System.out.println("OMR Branch");
+		
+	}
+	private void greens6() {
+		System.out.println("Navallur Branch");
+		
+	}
+	
+=======
 
 	private void greens10() {
 		System.out.println("Thuraipakam Branch");
@@ -27,4 +42,5 @@ public class Employee {
 		
 	}
 
+>>>>>>> 447d2082d1afcc7edaa76c7137fbc75a7e53e29e
 }
