@@ -26,5 +26,10 @@ public class Employee {
 		System.out.println("Metukupam Branch");
 		
 	}
+	private void greens21() {
+		System.out.println("EMR Branch");
+		
+	}
+	
 
 }
